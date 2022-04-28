@@ -9,5 +9,6 @@
 저희는 일상생활에서 흔히 볼 수 있는 횡단보도의 신호등을 설계하려고 합니다.<br/>
 신호등의 빨간불, 주황불, 파란불이 지정된 시간만큼 차례로 반복되며, 사람이 접근했을 때를 가정하여 센서대신 <br/>
 입력을 받아 사람이 인식되면 경고할 수 있도록 하려 합니다.<br/>
+hello.c++ 파일입니다.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimSangHyeokk)](https://github.com/LimSangHyeokk/github-readme-stats)
